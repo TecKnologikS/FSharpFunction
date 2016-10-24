@@ -1,0 +1,9 @@
+C:\Users\robin\OneDrive\Documents\Visual Studio 2015\Projects\FSharpFunction\FSharpFunction\bin\Debug\FSharpFunction.exe.config
+C:\Users\robin\OneDrive\Documents\Visual Studio 2015\Projects\FSharpFunction\FSharpFunction\bin\Debug\FSharpFunction.XML
+C:\Users\robin\OneDrive\Documents\Visual Studio 2015\Projects\FSharpFunction\FSharpFunction\bin\Debug\FSharpFunction.exe
+C:\Users\robin\OneDrive\Documents\Visual Studio 2015\Projects\FSharpFunction\FSharpFunction\bin\Debug\FSharpFunction.pdb
+C:\Users\robin\OneDrive\Documents\Visual Studio 2015\Projects\FSharpFunction\FSharpFunction\bin\Debug\FSharp.Core.dll
+C:\Users\robin\OneDrive\Documents\Visual Studio 2015\Projects\FSharpFunction\FSharpFunction\bin\Debug\FSharp.Core.xml
+C:\Users\robin\OneDrive\Documents\Visual Studio 2015\Projects\FSharpFunction\FSharpFunction\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\robin\OneDrive\Documents\Visual Studio 2015\Projects\FSharpFunction\FSharpFunction\obj\Debug\FSharpFunction.exe
+C:\Users\robin\OneDrive\Documents\Visual Studio 2015\Projects\FSharpFunction\FSharpFunction\obj\Debug\FSharpFunction.pdb
